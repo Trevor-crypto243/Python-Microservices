@@ -1,0 +1,8 @@
+Microservies with python
+Backend With Django and Flask, have own database
+Both will run in docker
+Mysql
+Communicate with Rabbit MQ events
+
+ADMIN USING DJANGO REST FRAMEWORK
+django-admin startproject admin
